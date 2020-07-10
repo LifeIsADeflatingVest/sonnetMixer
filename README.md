@@ -1,1 +1,1 @@
-This is a this Shakespearean sonnet mixer that shuffles random lines from Shakespeare's sonnets. For more information, see the [relevant page on my Blog](https://blog.homeforfiction.com/2020/01/13/javascript-shakespearean-sonnet-mixer/)
+This is a Shakespearean sonnet mixer that shuffles random lines from Shakespeare's sonnets. For more information, see the [relevant page on my Blog](https://blog.homeforfiction.com/2020/01/13/javascript-shakespearean-sonnet-mixer/)
